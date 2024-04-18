@@ -1,2 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Bom dia a todos");
+﻿using inicio.models;
+
+Pessoa p = new Pessoa();
