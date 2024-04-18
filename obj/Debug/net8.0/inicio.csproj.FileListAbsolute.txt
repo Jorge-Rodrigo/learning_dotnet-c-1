@@ -1,0 +1,14 @@
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\bin\Debug\net8.0\inicio.exe
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\bin\Debug\net8.0\inicio.deps.json
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\bin\Debug\net8.0\inicio.runtimeconfig.json
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\bin\Debug\net8.0\inicio.dll
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\bin\Debug\net8.0\inicio.pdb
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.AssemblyInfoInputs.cache
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.AssemblyInfo.cs
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.dll
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\refint\inicio.dll
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.pdb
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.genruntimeconfig.cache
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\ref\inicio.dll
