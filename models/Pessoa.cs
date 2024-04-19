@@ -11,7 +11,7 @@ namespace inicio.models
         public int Idade { get; set; }
 
         public void Apresentar(){
-            Console.WriteLine($"Olá meu nome é {Nome} e eu tenho {Idade}");
+            Console.WriteLine($"Olá meu nome é {Nome} e eu tenho {Idade} Anos");
         }
     }
 }

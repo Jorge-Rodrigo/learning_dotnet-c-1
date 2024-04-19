@@ -12,3 +12,4 @@ C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\refint\inicio.dll
 C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.pdb
 C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.genruntimeconfig.cache
 C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\ref\inicio.dll
+C:\Users\jorge\Desktop\Projetos\dotnet\inicio\obj\Debug\net8.0\inicio.sourcelink.json
